@@ -1,2 +1,2 @@
 # tkproj
-This repository contains all the projects done with tkinter using python
+This repository contains projects done with tkinter using python
